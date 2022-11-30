@@ -46,16 +46,16 @@ let mostrar = 1
 
 main()
 
+
 function main ( ){
     console.log (localStorage)
     mostrarMuebles() 
     elegirMueble()
     totalProductos = 0
     totalCompra = 0
-    carritoStorage()
+    //carritoStorage()
     
 }
-
 
 
 function mostrarMuebles(){
